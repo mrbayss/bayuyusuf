@@ -1,0 +1,58 @@
+# ===========================
+# Dependencies
+# ===========================
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# ===========================
+# Next.js Build Output
+# ===========================
+.next/
+out/
+
+# ===========================
+# TypeScript
+# ===========================
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# ===========================
+# Environment Variables — NEVER commit secrets
+# ===========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===========================
+# Vercel
+# ===========================
+.vercel
+
+# ===========================
+# OS & Editor
+# ===========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/settings.json
+.idea/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===========================
+# Local Agent Files (Antigravity / AI tools)
+# ===========================
+.agents/
+skills-lock.json
