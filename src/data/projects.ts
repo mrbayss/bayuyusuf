@@ -80,4 +80,13 @@ export const projects: Project[] = [
     link: "https://github.com/mrbayss/golang-simple-ecommerce",
     tags: ["Golang", "PostgreSQL", "GoFiber", "REST API"],
   },
+  {
+    id: "project-9",
+    title: "Study Golang Kafka",
+    description:
+      "Studi implementasi Apache Kafka dengan Golang untuk messaging dan event-driven architecture.",
+    image: "/images/projects/placeholder.avif",
+    link: "https://github.com/mrbayss/study-go-kafka",
+    tags: ["Golang", "Kafka"],
+  },
 ];

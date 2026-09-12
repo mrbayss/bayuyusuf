@@ -13,7 +13,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Muhamad Bayu Yusuf | Portfolio",
-  description: "[PLACEHOLDER: Portfolio description]",
+  description: "Portfolio of Muhamad Bayu Yusuf, Backend Developer | Golang & Java",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

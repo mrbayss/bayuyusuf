@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Projects | Muhamad Bayu Yusuf",
     description:
       "Portfolio of Muhamad Bayu Yusuf: REST APIs, e-commerce, and backend systems built with Golang, Java, and PostgreSQL.",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };

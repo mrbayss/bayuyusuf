@@ -6,12 +6,4 @@ export interface Certificate {
   image: string;
 }
 
-export const certificates: Certificate[] = [
-  {
-    id: "cert-1",
-    title: "[PLACEHOLDER: Certificate Title]",
-    organization: "[PLACEHOLDER: Issuing Organization]",
-    date: "[PLACEHOLDER: Date]",
-    image: "/images/certificates/placeholder.avif",
-  },
-];
+export const certificates: Certificate[] = [];

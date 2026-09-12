@@ -6,11 +6,11 @@ import { projects } from "@/data/projects";
 
 export const metadata: Metadata = {
   title: "Muhamad Bayu Yusuf | Portfolio",
-  description: "[PLACEHOLDER: Portfolio description, developer showcasing work, skills, and projects.]",
+  description: "Portfolio of Muhamad Bayu Yusuf, Backend Developer | Golang & Java",
   openGraph: {
     title: "Muhamad Bayu Yusuf | Portfolio",
-    description: "[PLACEHOLDER: Portfolio description, developer showcasing work, skills, and projects.]",
-    images: ["/images/og-image.png"],
+    description: "Portfolio of Muhamad Bayu Yusuf, Backend Developer | Golang & Java",
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };

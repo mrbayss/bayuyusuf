@@ -3,11 +3,11 @@ import ContactMethods from "@/components/ContactMethods";
 
 export const metadata: Metadata = {
   title: "Contact | Muhamad Bayu Yusuf",
-  description: "[PLACEHOLDER: Contact page description, reach out for collaborations or inquiries.]",
+  description: "Get in touch with Muhamad Bayu Yusuf for collaborations, freelance work, or just to say hi.",
   openGraph: {
     title: "Contact | Muhamad Bayu Yusuf",
-    description: "[PLACEHOLDER: Contact page description, reach out for collaborations or inquiries.]",
-    images: ["/images/og-image.png"],
+    description: "Get in touch with Muhamad Bayu Yusuf for collaborations, freelance work, or just to say hi.",
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };
