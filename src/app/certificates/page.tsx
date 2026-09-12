@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Certificates | Muhamad Bayu Yusuf",
     description:
       "Certificates and credentials of Muhamad Bayu Yusuf, showing a continuous learning journey and technical skill growth.",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };

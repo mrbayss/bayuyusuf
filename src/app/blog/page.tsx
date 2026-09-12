@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Blog | Muhamad Bayu Yusuf",
     description:
       "Blog of Muhamad Bayu Yusuf: learning to code, backend development, and technology in the AI era.",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };

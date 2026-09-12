@@ -68,11 +68,11 @@ export async function generateMetadata({
 
   return {
     title: meta.title || "Untitled",
-    description: meta.excerpt || "[PLACEHOLDER: Blog post excerpt]",
+    description: meta.excerpt || "Read the full post on Muhamad Bayu Yusuf's blog.",
     openGraph: {
       title: meta.title || "Untitled",
-      description: meta.excerpt || "[PLACEHOLDER: Blog post excerpt]",
-      images: ["/images/og-image.png"],
+      description: meta.excerpt || "Read the full post on Muhamad Bayu Yusuf's blog.",
+      images: ["/images/og-image.jpeg"],
       type: "article",
     },
   };

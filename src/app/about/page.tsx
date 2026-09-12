@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About | Muhamad Bayu Yusuf",
 description: "Backend developer focusing on REST APIs, Golang, and Java. Learn about my background, skills, and projects.",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.jpeg"],
     type: "website",
   },
 };
