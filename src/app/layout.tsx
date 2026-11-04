@@ -12,6 +12,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://bayuyusuf.vercel.app"),
   title: "Muhamad Bayu Yusuf | Portfolio",
   description: "Portfolio of Muhamad Bayu Yusuf, Backend Developer | Golang & Java",
 };
