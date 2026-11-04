@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 
 export const dynamic = "force-static";
 
-const baseUrl = "https://muhamadbayuyusuf.com";
+const baseUrl = "https://bayuyusuf.vercel.app";
 const routes = ["/", "/projects", "/certificates", "/blog", "/blog/hello-world", "/about", "/contact"];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
